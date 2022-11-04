@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaa</h1>
-<h3 align="center">a lazy kid, and a python wannabe developer i guess</h3>
+<h3 align="center">a lazy kid, and a python wannabe developer i guess, but currently im learning on some new things that sometimes i wanna vomit bcs of it lol</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qeylaaar&label=Profile%20views&color=0e75b6&style=flat" alt="qeylaaar" /> </p>
 
@@ -7,8 +7,11 @@
 
 - 💬 Ask me about **osu!.**
 
-- 📫 How to reach me **qeylaraiqalva@gmail.com**
-
+- 📫 How to reach me 
+- email : **qeylaraiqalva@gmail.com**
+  instagram : **instagram.com/qeylaaar**
+  discord : **alvaa#7847**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/makanmiekuah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="makanmiekuah" height="30" width="40" /></a>
