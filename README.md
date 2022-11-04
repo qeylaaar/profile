@@ -21,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qeylaaar&show_icons=true&locale=en&layout=compact" alt="qeylaaar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qeylaaar&show_icons=true&locale=en" alt="qeylaaar" /></p>
-![wife.](https://c.tenor.com/5aEoIJAHAB0AAAAC/izone-hitomi.gif)
