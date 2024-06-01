@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaa</h1>
-<h3 align="center">a lazy kid, and a python wannabe developer</h3>
+<h3 align="center">a lazy kid, and a web developer (kind of)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qeylaaar&label=visitor?&color=000000&style=plastic" alt="qeylaaar" /> </p>
 
