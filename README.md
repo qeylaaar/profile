@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qeylaaar&label=visitor?&color=000000&style=plastic" alt="qeylaaar" /> </p>
 
-- 🌱 I’m currently learning **python (django), flutter, dart, and laravel**
+- 🌱 I’m currently learning **Laravel, React, and Python**
 
-- 💬 Ask me about **python**
+- 💬 Ask me **anything**
 
 - 📫 How to reach me **qeylaraiqalva@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/makanmiekuah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="makanmiekuah" height="30" width="40" /></a>
+<a href="https://twitter.com/w3irdfleeex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/qeyla-raiq-alva-426442256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qeyla-raiq-alva-426442256" height="30" width="40" /></a>
 <a href="https://instagram.com/qeylaaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qeylaaar" height="30" width="40" /></a>
 </p>
